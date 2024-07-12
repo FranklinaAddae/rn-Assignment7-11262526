@@ -7,13 +7,13 @@ This project is a mobile application developed using React Native for shopping v
 ## Screenshots
 
 ### Home Screen
-![Home Screen](HomeScreen3.jpg)
-![Home Screen](HomeScreen2.jpg)
-#![Home Screen](HomeScreen1.jpg)
+![Home Screen](assets/HomeScreen3.jpg)
+![Home Screen](assets/HomeScreen2.jpg)
+![Home Screen](assets/HomeScreen1.jpg)
 
 ### Product Detail Screen
-![Product Detail](ProductDetail1.jpg)
-![Product Detail](ProductDetail2.jpg)
+![Product Detail](assets/ProductDetail1.jpg)
+![Product Detail](assets/ProductDetail2.jpg)
 
 ### Cart Screen
 ![Cart Screen](screenshots/CartScreen.png)
