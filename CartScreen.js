@@ -160,6 +160,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f9f9f9",
     position: "relative",
     marginLeft: 5,
+    width: '80%'
   },
   image: {
     width: 80,
@@ -185,7 +186,7 @@ const styles = StyleSheet.create({
     width: "100%",
     display: "flex",
     justifyContent: "center",
-    paddingLeft: 5,
+    paddingLeft: 10,
     backgroundColor: "white",
   },
   productName: {
